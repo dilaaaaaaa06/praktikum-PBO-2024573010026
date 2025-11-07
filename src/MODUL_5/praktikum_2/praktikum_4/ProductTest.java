@@ -1,4 +1,5 @@
-package MODUL_5.praktikum_2.praktikum_3;
+package MODUL_5.praktikum_2.praktikum_4;
+
 import java.util.Scanner;
 public class ProductTest {
     public static void main(String[] args) {
