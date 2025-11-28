@@ -198,6 +198,7 @@ Dideklarasikan dengan keyword abstract
          }
 
 #### Screenshoot Hasil
+![prak_1.png](gambar/prak_1.png)
 #### Analisa dan Pembahasan
 
 1. Abstract Class Shape
@@ -602,6 +603,7 @@ Dapat memiliki private methods.
             }
         }
 #### Screenshoot Hasil
+![prak_2.png](gambar/prak_2.png)
 #### Analisa dan Pembahasan
 1. Interface Vehicle
 
@@ -1069,6 +1071,7 @@ Method internal pendukung dapat dibuat private atau protected.
             }
              }
 #### Screenshoot Hasil
+![prak_3.png](gambar/prak_3.png)
 #### Analisa dan Pembahasan
 Praktikum ini bertujuan menunjukkan bagaimana abstraksi dalam OOP bekerja dengan bantuan access modifiers seperti:
 
